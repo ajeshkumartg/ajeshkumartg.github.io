@@ -4,10 +4,10 @@ You can use this template as a starter template and start building as you requir
 The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
 Preview URL: 
-https://demo.templatesjungle.com/natalie/
+https://demo.templatesjungle.com/Ajesh/
 
 Get the Full Version here: 
-https://templatesjungle.gumroad.com/l/natalie-developer-portfolio-html-css-website-template
+https://templatesjungle.gumroad.com/l/Ajesh-developer-portfolio-html-css-website-template
 
 DOCUMENTATION:
 
